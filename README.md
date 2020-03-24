@@ -14,6 +14,6 @@ This project will configure an environment into which you can test the Docker Hu
 
 
 ## Supported tags and respective Dockerfile links
-:
+
 - [latest](https://github.com/demartis/matlab_runtime_docker/blob/master/Dockerfile)
 
